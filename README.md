@@ -74,7 +74,7 @@ Transaction history is stored in a Python list, with each transaction recorded a
 4. Run the program with:
 
 ```bash
-python banking_simulator.py
+python banking.py
 ```
 
 ## Project Status
